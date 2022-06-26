@@ -356,6 +356,9 @@ input[type="email"]:focus {
   .nav-items ul {
     flex-direction: row;
   }
+  .nav-brand {
+    font-size: 24px;
+  }
   .items-card-container h3 {
     font-size: 16px;
   }
